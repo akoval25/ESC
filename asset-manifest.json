@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ESC/static/css/main.ae13fb5a.css",
+    "main.js": "/ESC/static/js/main.415ab089.js",
+    "static/media/hero-image.png": "/ESC/static/media/hero-image.1219b2c468b027b3edc1.png",
+    "static/media/logo-nestle.svg": "/ESC/static/media/logo-nestle.04661fcb341e7e06d77fe35c9e699537.svg",
+    "static/media/logo.svg": "/ESC/static/media/logo.75484a1965abaae5086ed392bf7f5a88.svg",
+    "static/media/preloader.svg": "/ESC/static/media/preloader.a3693e82c804e838e28af9c3b8893ced.svg",
+    "index.html": "/ESC/index.html",
+    "main.ae13fb5a.css.map": "/ESC/static/css/main.ae13fb5a.css.map",
+    "main.415ab089.js.map": "/ESC/static/js/main.415ab089.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae13fb5a.css",
+    "static/js/main.415ab089.js"
+  ]
+}

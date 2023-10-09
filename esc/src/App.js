@@ -82,6 +82,14 @@ function App() {
                   <>
                   <h2>{randomActivity.name}</h2>
                   <p>{randomActivity.description}</p>
+                  <a href={randomActivity.link} target="_blank">{randomActivity.linkname}</a>
+                  <ol>
+                    <li>{randomActivity.listitem1}</li>
+                    <li>{randomActivity.listitem2}</li>
+                    <li>{randomActivity.listitem3}</li>
+                    <li>{randomActivity.listitem4}</li>
+                    <li>{randomActivity.listitem5}</li>
+                  </ol>
                   </>
                   )}
               </div>

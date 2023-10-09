@@ -44,9 +44,7 @@ center,
 dl,
 dt,
 dd,
-ol,
 ul,
-li,
 fieldset,
 form,
 label,
@@ -112,7 +110,6 @@ body {
 }
 
 menu,
-ol,
 ul {
   list-style: none;
 }
@@ -162,8 +159,8 @@ a {
 }
 
 .header {
-  margin-top: 50px;
-  margin-bottom: 100px;
+  margin-top: 45px;
+  margin-bottom: 80px;
 }
 
 .logo__inner {
@@ -222,7 +219,7 @@ h1 {
   display: flex;
   align-items: center;
   max-width: 90%;
-  margin: -20px auto 50px;
+  margin: -20px auto 5px;
   justify-content: center;
   gap: 30px;
   overflow: hidden;
@@ -231,7 +228,6 @@ h1 {
 
 .hero {
   overflow: hidden;
-  max-height: 1000px;
   transition: max-height 0.5s ease-out;
 }
 
@@ -246,24 +242,48 @@ h1 {
 
 h2 {
   font-family: "Roboto", sans-serif;
-  font-size: 40px;
+  font-size: 35px;
   line-height: 1.2;
   font-weight: 700;
   padding-bottom: 20px;
   border-bottom: 3px solid #62d2a2;
   margin-bottom: 27px;
+  text-align: left;
 }
 
 p {
   font-family: "Roboto", sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.2;
   letter-spacing: 1.5px;
   text-align: left;
 }
 
+a {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: 1.5px;
+  text-align: left;
+  color: #62d2a2;
+}
+
+li {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  line-height: 1.2;
+  letter-spacing: 1.5px;
+  text-align: left;
+  font-style: italic;
+  margin-top: 10px;
+}
+
 .hero__img {
-  max-width: 50%;
+  max-width: 50%
+}
+
+.hero__img-item {
+  height: 350px;
 }
 
 .start__button {
@@ -278,7 +298,7 @@ p {
   border: 4px solid #62d2a2;
   font-family: "Fredoka", sans-serif;
   color: #62d2a2;
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 600;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -378,11 +398,11 @@ p {
   }
 
   h2 {
-    font-size: 30px;
+    font-size: 27px;
   }
 
   p {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 

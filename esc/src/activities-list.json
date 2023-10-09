@@ -2,17 +2,50 @@
   {
     "id": 1,
     "name": "Who am I",
-    "description": "In this game, players take on secret identities and provide clever clues to unravel each other's personas. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem ipsum corrupti consequatur, velit culpa, vitae error numquam eligendi itaque eum repellendus, tempore blanditiis excepturi suscipit. Fuga distinctio accusantium? In maiores libero asperiores beatae reiciendis, laudantium repellat facilis, officia vel quo qui deleniti laborum quae quidem vero porro eveniet sint natus obcaecati cumque necessitatibus quisquam incidunt. Et, iure vel!"
+    "description": "In this game, players take on secret identities and provide clever clues to unravel each other's personas. Uncover the mystery behind the question 'Who Am I?' as you engage in a fun-filled adventure of wit and strategy.",
+    "link": "",
+    "linkname": "",
+    "listitem1": "",
+    "listitem2": "",
+    "listitem3": "",
+    "listitem4": "",
+    "listitem5": ""
   },
   {
     "id": 2,
-    "name": "Do you like a cake?",
-    "description": "In this game, players take on secret identities and provide clever clues to unravel each other's personas. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem ipsum corrupti consequatur, velit culpa, vitae error numquam eligendi itaque eum repellendus, tempore blanditiis excepturi suscipit. Fuga distinctio accusantium? In maiores libero asperiores beatae reiciendis, laudantium repellat facilis, officia vel quo qui deleniti laborum quae quidem vero porro eveniet sint natus obcaecati cumque necessitatibus quisquam incidunt. Et, iure vel!"
+    "name": "Future of Artificial Intelligence: Discuss the impact and potential consequences of advancing artificial intelligence.",
+    "description": "All participants take turns asking questions related to the current topic. In other words, a circle of participants is formed, where each is assigned a sequential number, according to which they will be in line to respond to the previous questioner and to ask questions to the next participant.",
+    "link": "",
+    "linkname": "",
+    "listitem1": "",
+    "listitem2": "",
+    "listitem3": "",
+    "listitem4": "",
+    "listitem5": ""
   },
   {
     "id": 3,
-    "name": "Tell me about your favorite color",
-    "description": "In this game, players take on secret identities and provide clever clues to unravel each other's personas. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem ipsum corrupti consequatur, velit culpa, vitae error numquam eligendi itaque eum repellendus, tempore blanditiis excepturi suscipit. Fuga distinctio accusantium? In maiores libero asperiores beatae reiciendis, laudantium repellat facilis, officia vel quo qui deleniti laborum quae quidem vero porro eveniet sint natus obcaecati cumque necessitatibus quisquam incidunt. Et, iure vel!"
+    "name": "kahoot!",
+    "description": "Clik to the link:",
+    "link": "https://create.kahoot.it/details/c9bb9c5f-2d52-4376-8d0a-7d8e0026b659",
+    "linkname": "Animal Fact or Fiction",
+    "listitem1": "",
+    "listitem2": "",
+    "listitem3": "",
+    "listitem4": "",
+    "listitem5": ""
+  },
+  {
+    "id": 4,
+    "name": "The Impact of Technology on Daily Life",
+    "description": "So, we have prepared a discussion topic with 5 subquestions. Participants should respond to each of the 5 questions within one round. There should be 5 rounds so that each participant can express themselves and be actively engaged.",
+    "link": "",
+    "linkname": "",
+    "listitem1": "1. Discuss how technology has changed the way businesses operate and the impact on job roles.",
+    "listitem2": "2. Explore the disparities in access to technology and how it affects different communities.",
+    "listitem3": "3. Talk about how technology influences personal relationships, including friendships and romantic partnerships.",
+    "listitem4": "4. Discuss concerns about excessive screen time and strategies for managing digital addiction.",
+    "listitem5": "5. Explore the importance of online security and protecting personal information in the digital age."
   }
 ]
 

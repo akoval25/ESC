@@ -2036,8 +2036,8 @@
     "listitem1": "1. Do you usually get up before 7a.m.?",
     "listitem2": "2. How often do you phone your parents?",
     "listitem3": "3. How many texts or messages do you send in a week?",
-    "listitem4": "4. Do you think it&#39;s a good idea to write to-do lists?",
-    "listitem5": "5. Why do you think men who do housework feel happier than those who don&#39;t?"
+    "listitem4": "4. Do you think it`s a good idea to write to-do lists?",
+    "listitem5": "5. Why do you think men who do housework feel happier than those who don`t?"
   },
   {
     "id": 171,
@@ -2096,7 +2096,7 @@
     "listitem1": "1. Do you have any memorable experiences with outdoor activities like camping, hiking, or picnicking?",
     "listitem2": "2. How often do you participate in outdoor adventures, and what motivates you to do so?",
     "listitem3": "3. What natural landscapes or destinations have you explored through outdoor activities?",
-    "listitem4": "4. Describe a recent interest or hobby that you&#39;ve discovered.",
+    "listitem4": "4. Describe a recent interest or hobby that you've discovered.",
     "listitem5": "5. How do people spend their free time in your country?"
   },
   {
@@ -2155,7 +2155,7 @@
     "linkname": "",
     "listitem1": "1. What boring tasks take up your time?",
     "listitem2": "2. Have you ever turned down a good offer?",
-    "listitem3": "3. Which jobs do you think are dangerous/enjoyable/ boring? Why?",
+    "listitem3": "3. Which jobs do you think are dangerous/enjoyable/boring? Why?",
     "listitem4": "4. In your job or studies, is there anything you are not happy with?",
     "listitem5": "5. When you imagine the perfect career, what do you think of?"
   },
@@ -2225,7 +2225,7 @@
     "description": "So, we have prepared a discussion topic with 5 subquestions. Participants should respond to each of the 5 questions within one round. There should be 5 rounds so that each participant can express themselves and be actively engaged.",
     "link": "",
     "linkname": "",
-    "listitem1": "1. What's the best street food you&#39;ve ever eaten?",
+    "listitem1": "1. What's the best street food you've ever eaten?",
     "listitem2": "2. Is there anything you would never eat?",
     "listitem3": "3. Do you know any cities which are good for food? What types of food are they best known for?",
     "listitem4": "4. Which areas have good restaurants?",
@@ -2251,9 +2251,9 @@
     "linkname": "",
     "listitem1": "1. Discuss the joy you find in experimenting with ingredients and creating your own culinary dishes.",
     "listitem2": "2. Can you describe a recent instance where you improvised and invented a new recipe?",
-    "listitem3": "3. Talk about memorable restaurant experiences you&#39;ve had and the aspects that made them special.",
+    "listitem3": "3. Talk about memorable restaurant experiences you've had and the aspects that made them special.",
     "listitem4": "4. Do you have any favorite restaurants or eateries that you frequently visit? What makes them stand out?",
-    "listitem5": "5. Share stories of unique or exotic foods you&#39;ve tried while dining out."
+    "listitem5": "5. Share stories of unique or exotic foods you've tried while dining out."
   },
   {
     "id": 189,
@@ -2349,7 +2349,7 @@
     "listitem2": "2. Have you ever experienced a moment where you felt a strong connection with someone upon first meeting them?",
     "listitem3": "3. What qualities or characteristics do you consider most important in a romantic partner?",
     "listitem4": "4. How do you approach the topic of love and relationships in your life?",
-    "listitem5": "5. Can you share any valuable lessons or insights you&#39;ve gained from past relationships?"
+    "listitem5": "5. Can you share any valuable lessons or insights you've gained from past relationships?"
   },
   {
     "id": 197,
@@ -2393,9 +2393,9 @@
     "description": "So, we have prepared a discussion topic with 5 subquestions. Participants should respond to each of the 5 questions within one round. There should be 5 rounds so that each participant can express themselves and be actively engaged.",
     "link": "",
     "linkname": "",
-    "listitem1": "1. What was 'one of the most memorable moments&#39; of the decade in which you grew up?",
-    "listitem2": "2. Were things 'developing and getting better&#39; for your generation?",
-    "listitem3": "3. What part of your past do you like 'in retrospect?",
+    "listitem1": "1. What was 'one of the most memorable moments' of the decade in which you grew up?",
+    "listitem2": "2. Were things 'developing and getting better' for your generation?",
+    "listitem3": "3. What part of your past do you like 'in retrospect'?",
     "listitem4": "4. In which cases do you need to know more about the circumstances to make your decision?",
     "listitem5": "5. In what circumstances should a judge be very lenient/harsh?"
   },
@@ -2405,7 +2405,7 @@
     "description": "So, we have prepared a discussion topic with 5 subquestions. Participants should respond to each of the 5 questions within one round. There should be 5 rounds so that each participant can express themselves and be actively engaged.",
     "link": "",
     "linkname": "",
-    "listitem1": "1. Who was your favourite/ least favourite teacher at school? Why? Were your teachers traditional in their approach to teaching?",
+    "listitem1": "1. Who was your favourite/least favourite teacher at school? Why? Were your teachers traditional in their approach to teaching?",
     "listitem2": "2. Do you think this was good or bad?",
     "listitem3": "3. Is there a university in your town? What can you study there?",
     "listitem4": "4. Where did you go to primary school?",
@@ -2551,7 +2551,7 @@
     "linkname": "",
     "listitem1": "1. Share stories or reflections on the impact your friendships have had on your personal growth and development.",
     "listitem2": "2. What qualities do you value most in your friends, and how have these criteria changed over time?",
-    "listitem3": "3. Discuss how your family&#39;s values, beliefs, and traditions have been passed down through generations.",
+    "listitem3": "3. Discuss how your family's values, beliefs, and traditions have been passed down through generations.",
     "listitem4": "4. Describe unique cultural traditions related to family and friendship celebrations in your culture or community.",
     "listitem5": "5. Have you maintained long-distance friendships, and how do you stay connected despite the geographical separation?"
   },

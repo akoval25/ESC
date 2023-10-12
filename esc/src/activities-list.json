@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Who am I",
+    "name": "Who am I?",
     "description": "In this game, players take on secret identities and provide clever clues to unravel each other's personas. Uncover the mystery behind the question 'Who Am I?' as you engage in a fun-filled adventure of wit and strategy.",
     "link": "",
     "linkname": "",
@@ -2674,6 +2674,102 @@
     "listitem3": "3. Are there any art galleries or museums you recommend to others?",
     "listitem4": "4. Can you share examples of successful or iconic advertising campaigns that use art effectively?",
     "listitem5": "5. How do artists and designers play a role in shaping the aesthetics and identity of brands?"
+  },
+    {
+    "id": 224,
+    "name": "Who am I? (Animals)",
+    "description": "In this game, players take on secret identities and provide clever clues to unravel each other's personas. Uncover the mystery behind the question 'Who Am I?' as you engage in a fun-filled adventure of wit and strategy.",
+    "link": "",
+    "linkname": "",
+    "listitem1": "",
+    "listitem2": "",
+    "listitem3": "",
+    "listitem4": "",
+    "listitem5": ""
+  },
+    {
+    "id": 225,
+    "name": "Who am I? (Plants)",
+    "description": "In this game, players take on secret identities and provide clever clues to unravel each other's personas. Uncover the mystery behind the question 'Who Am I?' as you engage in a fun-filled adventure of wit and strategy.",
+    "link": "",
+    "linkname": "",
+    "listitem1": "",
+    "listitem2": "",
+    "listitem3": "",
+    "listitem4": "",
+    "listitem5": ""
+  },
+    {
+    "id": 226,
+    "name": "Who am I? (Edible)",
+    "description": "In this game, players take on secret identities and provide clever clues to unravel each other's personas. Uncover the mystery behind the question 'Who Am I?' as you engage in a fun-filled adventure of wit and strategy.",
+    "link": "",
+    "linkname": "",
+    "listitem1": "",
+    "listitem2": "",
+    "listitem3": "",
+    "listitem4": "",
+    "listitem5": ""
+  },
+    {
+    "id": 227,
+    "name": "Who am I? (Not edible)",
+    "description": "In this game, players take on secret identities and provide clever clues to unravel each other's personas. Uncover the mystery behind the question 'Who Am I?' as you engage in a fun-filled adventure of wit and strategy.",
+    "link": "",
+    "linkname": "",
+    "listitem1": "",
+    "listitem2": "",
+    "listitem3": "",
+    "listitem4": "",
+    "listitem5": ""
+  },
+    {
+    "id": 228,
+    "name": "Who am I? (Birds)",
+    "description": "In this game, players take on secret identities and provide clever clues to unravel each other's personas. Uncover the mystery behind the question 'Who Am I?' as you engage in a fun-filled adventure of wit and strategy.",
+    "link": "",
+    "linkname": "",
+    "listitem1": "",
+    "listitem2": "",
+    "listitem3": "",
+    "listitem4": "",
+    "listitem5": ""
+  },
+      {
+    "id": 229,
+    "name": "Who am I? (People and historical figures)",
+    "description": "In this game, players take on secret identities and provide clever clues to unravel each other's personas. Uncover the mystery behind the question 'Who Am I?' as you engage in a fun-filled adventure of wit and strategy.",
+    "link": "",
+    "linkname": "",
+    "listitem1": "",
+    "listitem2": "",
+    "listitem3": "",
+    "listitem4": "",
+    "listitem5": ""
+  },
+      {
+    "id": 230,
+    "name": "Who am I? (Fictional characters)",
+    "description": "In this game, players take on secret identities and provide clever clues to unravel each other's personas. Uncover the mystery behind the question 'Who Am I?' as you engage in a fun-filled adventure of wit and strategy.",
+    "link": "",
+    "linkname": "",
+    "listitem1": "",
+    "listitem2": "",
+    "listitem3": "",
+    "listitem4": "",
+    "listitem5": ""
+  },
+      {
+    "id": 231,
+    "name": "Who am I? (Drinks)",
+    "description": "In this game, players take on secret identities and provide clever clues to unravel each other's personas. Uncover the mystery behind the question 'Who Am I?' as you engage in a fun-filled adventure of wit and strategy.",
+    "link": "",
+    "linkname": "",
+    "listitem1": "",
+    "listitem2": "",
+    "listitem3": "",
+    "listitem4": "",
+    "listitem5": ""
   }
 ]
 
